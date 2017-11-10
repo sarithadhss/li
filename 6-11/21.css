@@ -1,0 +1,7 @@
+html
+{
+background-image: url(img_flowers.jpg),url(paper.gif);
+	background-position:right bottom, left top;
+	background-repeat:no-repeat,repeat;
+	padding:10px;
+}
